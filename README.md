@@ -81,3 +81,19 @@ podemos poner links a [otros archivos markdown en mi repo](pantallas.md), links 
 
 
 ## 😍 Más pantallas
+
+Esta sintaxis la reconoce el sistema en el pull request 
+
+- [x] Tarea 1
+- [ ] Tarea 2
+- [ ] Tarea 3
+
+## Símbolos matemáticos
+Representaciones con KaTEX
+
+Area es $\pi r^2$
+
+$$A_{tr}=\frac{bh}{2}$$
+
+Con el doble símbolo de dólar la fórmula se hace un poco más grande.
+
