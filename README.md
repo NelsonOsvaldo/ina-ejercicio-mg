@@ -73,3 +73,11 @@ class f {
 ## Enlaces 
 Dentro de un párrafo
 podemos poner links a [otros archivos markdown en mi repo](pantallas.md), links a archivos normales en mi repo; ver [ejemplo.html](/ejemplo.html) o una ruta HTTPS [INA](https://www.ina.ac.cr).
+
+# insertar imagenes
+![Captura de pantalla](docs/logoHTML5.png)
+
+![Tenemos WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+
+
+## 😍 Más pantallas
