@@ -1,0 +1,10 @@
+# Le dice al GIT cuáles archivos NO deben enviarse nunca al servidor 
+
+*.txt
+
+# proyecto que usan NODE
+node_modules/
+
+# si es un proyecto c#
+buidl/
+
